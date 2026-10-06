@@ -22,6 +22,7 @@ This repo is built for someone with a solid **software QA background** who wants
 | [`05-portuguese-lqa/`](./05-portuguese-lqa/) | BP vs EP differences, common localization errors in PT |
 | [`06-study-plan/`](./06-study-plan/) | 30/60/90-day study plan + curated resources |
 | [`07-portfolio/`](./07-portfolio/) | Sample test cases & mock bug reports to show employers |
+| [`08-job-search/`](./08-job-search/) | Job search progress log, applications, networking & market insights |
 
 ---
 
